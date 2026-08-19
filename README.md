@@ -1,2 +1,2 @@
 # git-branchig-pr
-to leaen the pull request
+to learn the pull request
